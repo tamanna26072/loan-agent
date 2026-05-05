@@ -1,0 +1,13 @@
+.env
+*.env
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
+.vscode/
+.DS_Store
+Thumbs.db
+.streamlit/
+.ipynb_checkpoints/
