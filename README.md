@@ -70,7 +70,7 @@ loan-agent/
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/loan-agent
+git clone https://github.com/tamanna26072/loan-agent
 cd loan-agent
 pip install -r requirements.txt
 ```
